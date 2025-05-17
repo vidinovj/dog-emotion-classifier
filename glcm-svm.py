@@ -1,5 +1,3 @@
-# @title Main Final GLCM
-
 import numpy as np
 
 # GLCM Feature Extraction (No External Libraries)
